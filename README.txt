@@ -7,7 +7,7 @@ para conseguir hospeda-lo.
 Nesse ambito utilizei o Vercell, como hospedagem. Recomendo pela maneira fácil de utilização e a integração diretamente
 pelo repositório do Github.
 
-A todos que se sentirem vontade, podem utilizar-se do código para aprimora-lo!!!
+A todos que sentirem vontade, podem utilizar-se do código para aprimora-lo!!!
 
 Um abraço enorme!😎
 

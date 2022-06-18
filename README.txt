@@ -1,21 +1,15 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Esse site tem como base intruduzir alguns conceitos de Hospedagem, bem como me ajudar a praticar algumas coisas... 
+Utiliza apenas JavaScript, css3 e html5.
 
+Foi utilizado também hospedagem a partir do firebase, onde eu encontrei alguns desafios. Precisava trocar o provedor
+para conseguir hospeda-lo.
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+Nesse ambito utilizei o Vercell, como hospedagem. Recomendo pela maneira fácil de utilização e a integração diretamente
+pelo repositório do Github.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+A todos que se sentirem vontade, podem utilizar-se do código para aprimora-lo!!!
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+Um abraço enorme!😎
 
 
 Credits:
@@ -29,3 +23,7 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+	 
+	Dev master:
+		AJ
+		aj@lkn.io | @ajlkn
